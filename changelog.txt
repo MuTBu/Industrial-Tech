@@ -1,3 +1,1 @@
-version:B 1.0.0
-changes:Adding a project to github
-data: 10.11.21 (RU TIME)
+this is alpha ver 0.0.1
